@@ -1,5 +1,7 @@
 'use strict';
 
+require('dotenv').config();
+
 var SurveyMonkeyAPI = require('surveymonkey').SurveyMonkeyAPI;
 var Promise = require('bluebird');
  
