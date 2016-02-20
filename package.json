@@ -13,6 +13,7 @@
     "surveymonkey": "0.0.6"
   },
   "devDependencies": {
+    "co": "4.6.0",
     "dotenv": "2.0.0"
   }
 }
